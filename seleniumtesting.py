@@ -38,7 +38,7 @@ time.sleep(2)
 
 #putting in email
 email = driver.find_element("id", 'ap_email')
-email.send_keys('leo is gay af')
+email.send_keys('text here')
 email.send_keys(Keys.RETURN)
 
 
